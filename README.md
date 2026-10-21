@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Igor 👋
 
-<!--
-**igor-rakovskiy/igor-rakovskiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Java backend developer, learning through hands-on projects
+and improving my code through peer reviews.
 
-Here are some ideas to get you started:
+## What I'm working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Building Java projects on Hyperskill
+- Practicing problem-solving and writing readable code
+- Learning Git and collaborating through pull requests
+- Applying feedback from code reviews
+
+## Projects
+
+### [Hyperskill Java](https://github.com/igor-rakovskiy/hyperskill-java)
+
+My Java learning projects from Hyperskill.
+Each project is an opportunity to practice, receive feedback,
+and improve the implementation.
+
+## My approach
+
+- Understand the problem before writing code
+- Keep solutions clear and focused
+- Make small, meaningful commits
+- Learn from feedback and improve step by step
